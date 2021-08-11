@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="url">https://api.weatherapi.com/v1/current.json?key=</string>
+    <string name="api_key"></string>
+</resources>
